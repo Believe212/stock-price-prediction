@@ -1,4 +1,3 @@
-# stock-price-prediction
 # Stock Price Prediction Project
 
 ## Objective
