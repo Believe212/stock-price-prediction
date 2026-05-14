@@ -1,5 +1,12 @@
 # Stock Price Prediction Project
 
+
+## Synent Technologies Internship Project
+
+synent-task<task 2>-<Stock Price Prediction>-<Believe Nosakhare>
+```
+
+
 ## Objective
 Analyze stock price trends and forecast future prices using:
 - Regression
